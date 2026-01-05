@@ -15,6 +15,7 @@ Below is a sample screenshot of the terminal-based No Due Fees Management System
 ![Demo Screenshot](Demo/Demo_Image.JPG)
 
 
+
 ---
 
 ## 📌 Features
@@ -152,6 +153,7 @@ This README:
 - doesn’t undersell  
 - explains **why** it’s terminal-based  
 - sounds intentional and confident  
+
 
 
 
