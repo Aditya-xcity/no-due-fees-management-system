@@ -12,7 +12,8 @@ This project manages student records, pending approvals, and admin verification 
 
 Below is a sample screenshot of the terminal-based No Due Fees Management System in action:
 
-![Demo Screenshot](No Due fees management system/Demo/Demo_Image.JPG)
+![Demo Screenshot](Demo/Demo_Image.JPG)
+
 
 ---
 
@@ -151,6 +152,7 @@ This README:
 - doesn’t undersell  
 - explains **why** it’s terminal-based  
 - sounds intentional and confident  
+
 
 
 
